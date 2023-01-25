@@ -1,4 +1,8 @@
 Hi
 World
 Hello
+
 from feature
+
+From master
+
